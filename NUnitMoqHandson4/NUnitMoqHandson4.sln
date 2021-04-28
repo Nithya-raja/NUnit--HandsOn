@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitMoqHandson4", "NUnitMoqHandson4\NUnitMoqHandson4.csproj", "{9C9FB0C7-9634-4539-94E4-E45C7255E5D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{12494354-836F-41A4-B156-F46A5603F495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C9FB0C7-9634-4539-94E4-E45C7255E5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9FB0C7-9634-4539-94E4-E45C7255E5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9FB0C7-9634-4539-94E4-E45C7255E5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9FB0C7-9634-4539-94E4-E45C7255E5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12494354-836F-41A4-B156-F46A5603F495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12494354-836F-41A4-B156-F46A5603F495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12494354-836F-41A4-B156-F46A5603F495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12494354-836F-41A4-B156-F46A5603F495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B0CF66C-1A11-4EC9-A1A7-74A8CB731B15}
+	EndGlobalSection
+EndGlobal

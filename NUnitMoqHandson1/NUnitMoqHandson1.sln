@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitMoqHandson1", "NUnitMoqHandson1\NUnitMoqHandson1.csproj", "{B26A387A-76D2-461E-89ED-720E078FC70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{C601C2B5-705B-48D9-B543-535FE7F3C476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26A387A-76D2-461E-89ED-720E078FC70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26A387A-76D2-461E-89ED-720E078FC70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26A387A-76D2-461E-89ED-720E078FC70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26A387A-76D2-461E-89ED-720E078FC70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C601C2B5-705B-48D9-B543-535FE7F3C476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C601C2B5-705B-48D9-B543-535FE7F3C476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C601C2B5-705B-48D9-B543-535FE7F3C476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C601C2B5-705B-48D9-B543-535FE7F3C476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C11B306-3DD3-42CF-B0A7-90B207D56498}
+	EndGlobalSection
+EndGlobal
